@@ -1,0 +1,11 @@
+# Large dataset directories
+carplate/
+dataset_yolo/images/
+dataset_yolo/labels/
+dataset_coco/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
