@@ -2,10 +2,15 @@
 carplate/
 dataset_yolo/images/
 dataset_yolo/labels/
+dataset_yolo/annotations/
 dataset_coco/
+runs/
 
 # macOS
 .DS_Store
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+#local venv
+venv/

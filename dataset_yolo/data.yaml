@@ -1,5 +1,5 @@
-# Car Plate Detection — YOLOv8 config
-path: /Users/macbook/Desktop/CMPS261_PlateDetection/dataset_yolo
+# Car Plate Detection � YOLOv8 config
+path: dataset_yolo
 train: images/train
 val: images/val
 test: images/test
