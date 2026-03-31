@@ -1,16 +1,27 @@
-# Large dataset directories
+
 carplate/
-dataset_yolo/images/
-dataset_yolo/labels/
-dataset_yolo/annotations/
+dataset_yolo/
 dataset_coco/
+data/raw/
+
 runs/
+outputs/
 
-# macOS
-.DS_Store
 
-# Jupyter checkpoints
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.env/
+
 .ipynb_checkpoints/
 
-#local venv
-venv/
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
