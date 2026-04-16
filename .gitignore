@@ -19,7 +19,7 @@ venv/
 
 .DS_Store
 Thumbs.db
-
+test_images/
 .vscode/
 .idea/
 
