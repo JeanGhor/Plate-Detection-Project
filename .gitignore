@@ -5,11 +5,11 @@ test_images/
 
 dataset_yolo/images/
 dataset_yolo/labels/
+dataset_yolo/annotations/
 !dataset_yolo/data.yaml
 
 runs/
 outputs/
-analysis_outputs/
 fasterrcnn_outputs/
 retinanet_outputs/
 
