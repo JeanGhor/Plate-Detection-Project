@@ -1,29 +1,40 @@
-
 carplate/
-dataset_yolo/
 dataset_coco/
 data/raw/
+test_images/
+
+dataset_yolo/images/
+dataset_yolo/labels/
+dataset_yolo/annotations/
+!dataset_yolo/data.yaml
 
 runs/
 outputs/
+fasterrcnn_outputs/
+retinanet_outputs/
 
+*.pt
+*.pth
+*.onnx
+*.engine
 
 __pycache__/
 *.pyc
 *.pyo
 
 venv/
-.env/
+.venv/
+env/
+.env
+.env.*
 
 .ipynb_checkpoints/
 
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
 
-.vscode/
-.idea/
 
 *.log
 *.tmp
-
-*.pth

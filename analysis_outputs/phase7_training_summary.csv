@@ -1,0 +1,3 @@
+model_name,source,best_epoch_index,train_loss_snapshot,val_precision,val_recall,val_map50,val_map50_95,best_val_f1
+FasterRCNN,C:\Users\jjrjg\OneDrive\Desktop\CMPS 261 Project\Plate-Detection-Project\fasterrcnn_outputs\fasterrcnn_results.json,4,0.05573982890009096,0.8533333333333334,0.927536231884058,,,0.888888888888889
+RetinaNet,C:\Users\jjrjg\OneDrive\Desktop\CMPS 261 Project\Plate-Detection-Project\retinanet_outputs\retinanet_results.json,10,0.19965840150715888,0.921875,0.855072463768116,,,0.887218045112782
